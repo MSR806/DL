@@ -1,2 +1,2 @@
-# Deep-Learning
+# DL
 Learning DL from basics
